@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dain-react/static/css/main.7dfa2dac.css",
-    "main.js": "/dain-react/static/js/main.c3510227.js",
+    "main.css": "/dain-react/static/css/main.e2175998.css",
+    "main.js": "/dain-react/static/js/main.009f4d88.js",
     "static/js/787.1beb2412.chunk.js": "/dain-react/static/js/787.1beb2412.chunk.js",
     "static/media/back.jpg": "/dain-react/static/media/back.991b40c9c6a5fc6e6ac7.jpg",
     "static/media/loading_bg.webp": "/dain-react/static/media/loading_bg.3ccdd4af10f6133ccd3d.webp",
     "static/media/bg.webp": "/dain-react/static/media/bg.b66b5744433392f44845.webp",
     "index.html": "/dain-react/index.html",
-    "main.7dfa2dac.css.map": "/dain-react/static/css/main.7dfa2dac.css.map",
-    "main.c3510227.js.map": "/dain-react/static/js/main.c3510227.js.map",
+    "main.e2175998.css.map": "/dain-react/static/css/main.e2175998.css.map",
+    "main.009f4d88.js.map": "/dain-react/static/js/main.009f4d88.js.map",
     "787.1beb2412.chunk.js.map": "/dain-react/static/js/787.1beb2412.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dfa2dac.css",
-    "static/js/main.c3510227.js"
+    "static/css/main.e2175998.css",
+    "static/js/main.009f4d88.js"
   ]
 }
